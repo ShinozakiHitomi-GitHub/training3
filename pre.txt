@@ -2,6 +2,5 @@ tokyo
 osaka
 kyoto
 fukuoka2
-sendai
+miyagi
 fukushima
-
