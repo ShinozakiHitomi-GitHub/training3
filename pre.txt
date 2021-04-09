@@ -1,7 +1,6 @@
 tokyo
 osaka
 kyoto
-fukuoka
+fukuoka2
 miyagi
 fukushima
-
